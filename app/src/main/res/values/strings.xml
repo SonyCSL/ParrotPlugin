@@ -1,0 +1,10 @@
+<resources>
+
+	<string name="app_name">Parrot Plug-in</string>
+    <string name="activity_name">Settings</string>
+    
+    <!-- Preference -->
+    <string name="info_key">info</string>
+    <string name="info_summary">Version 0.1</string>
+	<string name="info_title">About Parrot Plug-in</string>
+</resources>
